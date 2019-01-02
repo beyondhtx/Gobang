@@ -24,9 +24,10 @@ com.model/ »ùÓÚJavaµÄ¶ÔÏóÐòÁÐ»¯¹¦ÄÜÊµÏÖµÄ¿Í»§¶ËºÍ·þÎñÆ÷Ö®¼ä×Ô¶¨ÒåµÄÓ¦ÓÃ²ãÍ¨ÐÅÐ­Ò
 4.ÕûÌå°²È«ÐÔÓÐ´ýÌá¸ß£¬Ê±¼äÔ­ÒòÎÒÃ»ÓÐ¹Ø×¢ÈçºÎ±£´æÓÃ»§µÇÂ¼×´Ì¬µÄÎÊÌâ£¬ÓÃ»§Éí·ÝÔÚÄ¿Ç°µÄ¼Ü¹¹ÀïºÜÈÝÒ×Î±Ôì¡£
 
 5.Ç±ÔÚÎÊÌâ£ºÔÚÇ°ÆÚ²éÔÄ×ÊÁÏÊ±·¢ÏÖJavaÖÐµÄÐòÁÐ»¯¶ÔÏóÔÚÍøÂçÖÐ´«ÊäÊ±ÓÐ¿ÉÄÜ³öÏÖ¶ªÊ§²¿·ÖÊý¾ÝµÄÎÊÌâ£¬ÎªÁË×÷ÒµµÄÕ¹Ê¾ÎÒÖ»×ö¹ý±¾µØµÄ²âÊÔ£¬ÔÚÉú²ú»·¾³ÏÂ²¿ÊðÖ®ºó¿ÉÄÜ³öÏÖÒâÏë²»µ½µÄÎÊÌâ¡£
+
 ##ÖÂÐ»
 
-GUIÉè¼ÆË¼Â·¡¢²¿·Ö×é¼þ²ÎÊýºÍÍ¼Æ¬ËØ²ÄÀ´Ô´ÃùÐ»https://github.com/Brioal/Game£¬ËäÈ»ËûÃÇµÄÉè¼ÆÖÐ´æÔÚ×Å¹ýÓÚ´óÁ¿µÄMagicNumber£¬µ¼ÖÂºóÆÚ´úÂëµÄ¸üÐÂºÍÎ¬»¤Ê®·ÖÀ§ÄÑ£¬ÎÒ¾¡Á¦½øÐÐÁËÒ»Ð©ÖØ¹¹¹¤×÷£¬µ«Ä¿Ç°ÕûÌåµÄ¼Ü¹¹ÈÔÈ»ºÜ²»ÀÖ¹Û¡£
+GUIÉè¼ÆË¼Â·¡¢²¿·Ö×é¼þ²ÎÊýºÍÍ¼Æ¬ËØ²ÄÀ´Ô´ÃùÐ»[https://github.com/Brioal/Game](https://github.com/Brioal/Game)£¬ËäÈ»ËûÃÇµÄÉè¼ÆÖÐ´æÔÚ×Å¹ýÓÚ´óÁ¿µÄMagicNumber£¬µ¼ÖÂºóÆÚ´úÂëµÄ¸üÐÂºÍÎ¬»¤Ê®·ÖÀ§ÄÑ£¬ÎÒ¾¡Á¦½øÐÐÁËÒ»Ð©ÖØ¹¹¹¤×÷£¬µ«Ä¿Ç°ÕûÌåµÄ¼Ü¹¹ÈÔÈ»ºÜ²»ÀÖ¹Û¡£
 
 ²»ÔÙÎ¬»¤¡£
 
